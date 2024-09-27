@@ -1,0 +1,17 @@
+[
+    {
+        "tipo": "Cachorro",
+        "nome": "Bebel",
+        "idade": 4
+    },
+    {
+        "tipo": "Hamster",
+        "nome": "Pimpão",
+        "idade": 2
+    },
+    {
+        "tipo": "Teste",
+        "nome": "Abc",
+        "idade": 10
+    }
+]
